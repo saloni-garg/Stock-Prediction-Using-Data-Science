@@ -15,8 +15,20 @@ Stock price prediction with RNN. The data we used is from the Chinese stock.
 
 ## Demo
 
+### Data
+<p>Data used is Chinese Stocks data, and here is a glimpse of the DataFrame</p>
 <div style="text-align:center">
-	<img src="/screen1.png" alt="Training Result Demo" style="width: 450px;"/>
+	<img src="/screen1.png" alt="Data" style="width: 450px;"/>
+</div>
+
+### Training
+<p> I've trained with 5 epochs, for a basic visualization.</p>
+<div style="text-align:center">
+	<img src="/screen3.png" alt="Training Demo" style="width: 450px;"/>
+</div>
+
+### Results
+<div style="text-align:center">
 	<img src="/screen2.png" alt="Training Result Demo" style="width: 450px;"/>
 </div>
 
