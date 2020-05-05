@@ -16,8 +16,8 @@ Stock price prediction with RNN. The data we used is from the Chinese stock.
 ## Demo
 
 <div style="text-align:center">
-	<img src="/'screen1.png" alt="Training Result Demo" style="width: 450px;"/>
-	<img src="/'screen2.png" alt="Training Result Demo" style="width: 450px;"/>
+	<img src="/screen1.png" alt="Training Result Demo" style="width: 450px;"/>
+	<img src="/screen2.png" alt="Training Result Demo" style="width: 450px;"/>
 </div>
 
 ## Reference
