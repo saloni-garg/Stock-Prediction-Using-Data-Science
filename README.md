@@ -5,7 +5,6 @@ Stock price prediction with RNN. The data we used is from the Chinese stock.
 ## Requirements
 
 - Python 3.5
-- TuShare 0.7.4
 - Pandas 0.19.2
 - Keras 1.2.2
 - Numpy 1.12.0
